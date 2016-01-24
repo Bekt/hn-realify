@@ -1,14 +1,21 @@
 ## Hacker News Realified
 
-TODO: Write a better Readme.
-
-Basic Chrome (others soon?) extension that auto-updates select Hacker News pages.
+HN Realified is a basic Chrome (others soon?) extension that auto-updates select 
+[Hacker News](https://news.ycombinator.com/) pages.
 The code makes use of HN's Firebase-based API.
-More to come.
 
-Install from the Google Web Store:
+<div align="center">
+  <a href="https://gfycat.com/TanWetGoosefish">
+    <img src="https://fat.gfycat.com/OrderlyOffbeatChuckwalla.gif">
+  </a>
+</div>
 
-[![](https://i.imgur.com/Kb8UGkY.png)](https://chrome.google.com/webstore/detail/egimmhannkdglaafhglalfpfddkfhffk)
+## Installation
+
+Google Web Store:
+
+[![](https://i.imgur.com/Kb8UGkY.png)]
+(https://chrome.google.com/webstore/detail/egimmhannkdglaafhglalfpfddkfhffk)
 
 ## Known Caveats
 
