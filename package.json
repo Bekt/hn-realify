@@ -1,6 +1,6 @@
 {
   "name": "hn-realify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hacker News realified. Stories pages are auto-updated as they change.",
   "author": "Kanat Bekt <bekt17+gh@gmail.com>",
   "license": "MIT",
