@@ -11,12 +11,12 @@
     "build:chrome": "npm run build && mkdir -p chrome/dist && cp dist/realify.min.js chrome/dist/"
   },
   "dependencies": {
-    "firebase": "^2.4.0",
-    "imagemin-cli": "^2.1.0"
+    "firebase": "^2.4.0"
   },
   "devDependencies": {
     "babel-cli": "^6.4.5",
     "babel-preset-es2015": "^6.3.13",
-    "browserify": "^13.0.0"
+    "browserify": "^13.0.0",
+    "imagemin-cli": "^2.1.0"
   }
 }
