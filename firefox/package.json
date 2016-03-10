@@ -1,0 +1,15 @@
+{
+  "title": "Hacker News Real-Time",
+  "name": "hn-realify",
+  "version": "1.1.0",
+  "description": "Hacker News realified. Stories pages are auto-updated as they change.",
+  "main": "index.js",
+  "author": "Kanat Bekt <bekt17+ff@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "keywords": [
+    "hacker news"
+  ]
+}
